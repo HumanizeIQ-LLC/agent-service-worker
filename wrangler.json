@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "agent-service-worker",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "0dacd506-f69f-4241-bedb-28aff582ea2c",
+			"database_name": "agent-service-playtest"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
